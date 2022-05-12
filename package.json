@@ -1,6 +1,6 @@
 {
   "name": "arith-cal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "simple arith calculations",
   "main": "index.js",
   "scripts": {
